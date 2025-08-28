@@ -1,0 +1,1 @@
+{"hierarchy":{"top_level":1,"1":{"insts":{"V1":4,"NM0":2,"V0":4,"PM0":3}}},"modelMap":{"gpdk090_pmos1v":[3],"vsource":[4],"gpdk090_nmos1v":[2]},"cellviews":[["22301","INVERTER","schematic"],["gpdk090","nmos1v","spectre"],["gpdk090","pmos1v","spectre"],["analogLib","vdc","spectre"]]}

@@ -1,0 +1,9 @@
+CADENCE IHNL11140
+$model
+22301/INVERTER/schematic INVERTER
+$endmodel
+$net
+gnd! 0
+$endnet
+$param
+$endparam

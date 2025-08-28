@@ -1,0 +1,10 @@
+
+// Library name: 22301
+// Cell name: INVERTER
+// View name: schematic
+NM0 (OUT net1 0 0) gpdk090_nmos1v w=(120n) l=100n as=69.6f ad=69.6f \
+        ps=1.16u pd=1.16u m=(1)*(1) simM=(1)*(1)
+PM0 (OUT net1 net2 net2) gpdk090_pmos1v w=(120n) l=100n as=69.6f ad=69.6f \
+        ps=1.16u pd=1.16u m=(1)*(1) simM=(1)*(1)
+V1 (net1 0) vsource dc=1.8 type=dc
+V0 (net2 0) vsource dc=1.8 type=dc

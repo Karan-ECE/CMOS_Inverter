@@ -1,0 +1,7 @@
+// Generated for: spectre
+// Generated on: Aug 28 12:01:45 2025
+// Design library name: 22301
+// Design cell name: INVERTER
+// Design view name: schematic
+simulator lang=spectre
+global 0
